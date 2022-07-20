@@ -125,7 +125,6 @@ semver==2.13.0
 Send2Trash==1.8.0
 Shapely==1.8.2
 shellcheck-py==0.8.0.4
-sip==4.19.13
 smmap==5.0.0
 soupsieve==2.3.2.post1
 streamlit==1.2.0
